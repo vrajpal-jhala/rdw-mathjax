@@ -1,0 +1,100 @@
+.container {
+  margin: 25px 100px;
+}
+
+.rdw-editor-main {
+  border: 1px solid #f1f1f1;
+  padding: 5px;
+  border-radius: 2px;
+}
+
+.preview-container > hr {
+  border: none;
+  border-bottom: 1px solid #f1f1f1;
+}
+
+.preview-container .preview {
+  padding: 5px;
+  border: 1px solid #f1f1f1;
+  border-radius: 2px;
+}
+
+.mathjax-icon {
+  display: flex;
+  align-items: center;
+  margin-bottom: 6px;
+  position: relative;
+  flex-wrap: wrap;
+}
+
+.mathjax-toolbar {
+  width: 100%;
+}
+
+.mathjax-toolbar > hr {
+  margin: 4px 0px;
+}
+
+.mathjax-toolbar .mathjax-toolbar-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 4px;
+}
+
+.mathjax-toolbar .mathjax-toolbar-heading > :nth-child(2) {
+  flex: 1 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.mathjax-toolbar .mathjax-option-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.d-none {
+  display: none !important;
+}
+
+.mathjax-toolbar .mathjax-option-container .rdw-dropdown-wrapper {
+  position: relative;
+  width: auto;
+  margin-bottom: 6px;
+  padding: 0px 5px;
+  display: flex;
+  align-items: center;
+}
+
+.mathjax-toolbar .mathjax-option-container .rdw-dropdown-wrapper > span {
+  margin-right: 30px;
+}
+
+.mathjax-toolbar
+  .mathjax-option-container
+  .rdw-dropdown-wrapper
+  > [class*='rdw-dropdown-caretto'] {
+  right: 10px;
+}
+
+.mathjax-toolbar
+  .mathjax-option-container
+  .rdw-dropdown-wrapper
+  > .rdw-dropdown-optionwrapper {
+  position: absolute;
+  top: 100%;
+  left: 0px;
+  width: 220px;
+  padding: 10px 5px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.mathjax-toolbar
+  .mathjax-option-container
+  .rdw-dropdown-wrapper
+  > .rdw-dropdown-optionwrapper
+  .symbol {
+  padding: 4px 8px;
+}
