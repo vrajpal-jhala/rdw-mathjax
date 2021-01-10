@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rdw-mathjax/static/css/main.1f4a449e.chunk.css",
+    "main.js": "/rdw-mathjax/static/js/main.74a8d278.chunk.js",
+    "main.js.map": "/rdw-mathjax/static/js/main.74a8d278.chunk.js.map",
+    "runtime-main.js": "/rdw-mathjax/static/js/runtime-main.3d79c7e3.js",
+    "runtime-main.js.map": "/rdw-mathjax/static/js/runtime-main.3d79c7e3.js.map",
+    "static/css/2.979034dc.chunk.css": "/rdw-mathjax/static/css/2.979034dc.chunk.css",
+    "static/js/2.5e6f28fe.chunk.js": "/rdw-mathjax/static/js/2.5e6f28fe.chunk.js",
+    "static/js/2.5e6f28fe.chunk.js.map": "/rdw-mathjax/static/js/2.5e6f28fe.chunk.js.map",
+    "static/js/3.016b428b.chunk.js": "/rdw-mathjax/static/js/3.016b428b.chunk.js",
+    "static/js/3.016b428b.chunk.js.map": "/rdw-mathjax/static/js/3.016b428b.chunk.js.map",
+    "index.html": "/rdw-mathjax/index.html",
+    "static/css/2.979034dc.chunk.css.map": "/rdw-mathjax/static/css/2.979034dc.chunk.css.map",
+    "static/css/main.1f4a449e.chunk.css.map": "/rdw-mathjax/static/css/main.1f4a449e.chunk.css.map",
+    "static/js/2.5e6f28fe.chunk.js.LICENSE.txt": "/rdw-mathjax/static/js/2.5e6f28fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d79c7e3.js",
+    "static/css/2.979034dc.chunk.css",
+    "static/js/2.5e6f28fe.chunk.js",
+    "static/css/main.1f4a449e.chunk.css",
+    "static/js/main.74a8d278.chunk.js"
+  ]
+}
